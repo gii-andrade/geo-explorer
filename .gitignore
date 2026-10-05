@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Cobertura de testes
+coverage/
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
